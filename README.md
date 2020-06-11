@@ -9,4 +9,4 @@ I am a really cool girl. I like to code.
 - Project 3 (Learned about github user pages)
 - Project 4 (Learned about Web Storage API and ES6 class types)
 - Project 5 (Learning to use MongoDB)
-  [Project Page](https://milisim.github.io/project-1/)
+- [Project Page](https://milisim.github.io/project-1/)
